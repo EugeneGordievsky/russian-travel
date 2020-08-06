@@ -1,0 +1,26 @@
+.cover {
+  width: max-content;
+  margin: 92px auto 0;
+  display: grid;
+  grid-template-columns: 1184px;
+  grid-template-rows: 740px;
+}
+
+@media screen and (max-width: 1279px) {
+  .cover {
+    grid-template-columns: 1024px;
+    grid-template-rows: 640px;
+  }
+}
+@media screen and (max-width: 1023px) {
+  .cover {
+    grid-template-columns: 768px;
+    grid-template-rows: 480px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .cover {
+    grid-template-columns: 320px;
+    grid-template-rows: 200px;
+  }
+}
