@@ -20,6 +20,12 @@
 }
 @media screen and (max-width: 767px) {
   .cover {
+    grid-template-columns: 544px;
+    grid-template-rows: 340px;
+  }
+}
+@media screen and (max-width: 540px) {
+  .cover {
     grid-template-columns: 320px;
     grid-template-rows: 200px;
   }
