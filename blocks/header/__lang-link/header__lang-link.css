@@ -5,6 +5,9 @@
   text-decoration: none;
   color: #fff;
 }
+.header__lang-link:hover {
+  text-decoration: underline;
+}
 
 .header__lang-link:last-of-type {
   margin-right: 0;

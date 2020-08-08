@@ -16,12 +16,14 @@
   .cover {
     grid-template-columns: 768px;
     grid-template-rows: 480px;
+    margin-top: 88px;
   }
 }
 @media screen and (max-width: 767px) {
   .cover {
     grid-template-columns: 544px;
     grid-template-rows: 340px;
+    margin-top: 64px;
   }
 }
 @media screen and (max-width: 540px) {
