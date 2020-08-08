@@ -14,3 +14,5 @@
 
 Проект создан по [макету](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile) с использованием редактора
 [Figma](https://www.figma.com).
+
+[Ссылка](https://eugenegordievsky.github.io/russian-travel/index.html) на проект.
